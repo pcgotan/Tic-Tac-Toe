@@ -1,4 +1,9 @@
 # Tic-Tac-Toe
+A simple Tic-Tac-Toe game built using React
+
+## Usage
+
+Clone this repository and run `npm install`. Set the values to the following environment variables before starting the application using `npm start`:
 
 ### Features
 * Lets you play tic-tac-toe,
